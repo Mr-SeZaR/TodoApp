@@ -1,0 +1,32 @@
+@media only screen and ( max-width: 600px) {
+    .mainCard {
+        width: 80%;
+        border-radius: 25px;
+        background-color: rgb(255, 255, 255);
+        padding: 25px;
+      }
+    
+    form{
+        display: block;
+    }
+
+    .inputForm {
+        border: none;
+        margin: 15px auto;
+        padding: 10px;
+        border: 1px solid #eee;
+        outline: none;
+        width: 75%;
+        display: block;
+    }
+
+    .inputDate{
+        width: 45%;
+        margin: 0px 5px;
+    }
+
+    .btnCreate{
+        width: 45%;
+        margin: 0px 5px
+    }
+}
